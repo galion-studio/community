@@ -6,21 +6,32 @@ The license is [MIT](LICENSE). Commercial use is allowed. Keep the copyright not
 
 The desk is not in this repository. Neither is the private tree.
 
-## 23 September 2026
+## Review · 23 September 2026
 
-A rented CPU. A light desk. A working paper on how the builder behaved.
+**Testing Grok Build on a rented CPU.** One sitting. One operator. Not a benchmark.
 
-| | |
-| --- | --- |
-| Paper | [Testing Grok Build on a rented CPU](2026-09-23/grok-build/galion-gp-2026-01.pdf) |
-| Read it | [developer.galion.app/p/grok-build-paper](https://developer.galion.app/p/grok-build-paper) |
-| This day | [2026-09-23](2026-09-23/README.md) |
+[Read the paper](https://developer.galion.app/p/grok-build-paper) · [PDF](2026-09-23/grok-build/galion-gp-2026-01.pdf) · [Studio page](https://github.com/galion-studio)
 
-![The light stack. One host is the desk. The other names stay quiet.](2026-09-23/grok-build/figures/fig1-stack.png)
+**Grade.** Useful. Not finished. Not something to leave alone for a week. Not a Grok-class computer.
 
-The paper is seven pages. It has four figures. It is one sitting, one operator, no second rater. The grade in it is the operator's: useful, not finished, not a week alone, not a Grok-class computer.
+It will patch the machine in the same hour, and it will follow a bad last instruction with the same energy. Told to fix the desk, it once stopped the process that was serving it. The early scores are that failure. The late scores are after the operator corrected it. Late is not a forecast.
 
-### The same day
+| Behavior | Early | Late |
+| --- | ---: | ---: |
+| Follows the last instruction | 5 | 5 |
+| Builds on the paid machine | 2 | 4 |
+| Leaves the keeper processes alone | 1 | 4 |
+| Speaks before a hidden think | 2 | 3 |
+| Keeps secrets out of the transcript | 2 | 2 |
+| Leaves a result you can open | 2 | 4 |
+
+![Figure 1. The light stack.](2026-09-23/grok-build/figures/fig1-stack.png)
+
+![Figure 4. Early and late scores.](2026-09-23/grok-build/figures/fig4-scores.png)
+
+The other two figures, and the prose, are in [the paper](2026-09-23/grok-build/galion-gp-2026-01.pdf).
+
+## The same day
 
 | Note | Read | Folder |
 | --- | --- | --- |
@@ -33,12 +44,6 @@ The research plan on rare-earth oxides is a plan. It does not claim those oxides
 
 ## How the files are kept
 
-Each day is a folder, `YYYY-MM-DD`. Inside it are the notes and the figures from that day.
-
-`publish/` is the same files at stable paths, so a link from yesterday still opens. New work is filed in the date folder first.
-
-## Not in this repository
-
-The phone desk. The private repositories. Tokens, keys, and the machine they run on.
+Each day is a folder, `YYYY-MM-DD`. `publish/` keeps the same files at stable paths, so an older link still opens.
 
 The board is [Discussions](https://github.com/galion-studio/community/discussions). The door is [developer.galion.app](https://developer.galion.app).
