@@ -1,27 +1,44 @@
-# Galion Studio — community
+# Galion Studio
 
-Public notes and the discussion board. Everything published here is written to be read; the desk where the work happens is not in this repo.
+Public notes, filed by the day they were written.
 
-## Published notes
+The license is [MIT](LICENSE). Commercial use is allowed. Keep the copyright notice and the permission notice with every copy.
 
-| Note | Reading page | Folder |
+The desk is not in this repository. Neither is the private tree.
+
+## 23 September 2026
+
+A rented CPU. A light desk. A working paper on how the builder behaved.
+
+| | |
+| --- | --- |
+| Paper | [Testing Grok Build on a rented CPU](2026-09-23/grok-build/galion-gp-2026-01.pdf) |
+| Read it | [developer.galion.app/p/grok-build-paper](https://developer.galion.app/p/grok-build-paper) |
+| This day | [2026-09-23](2026-09-23/README.md) |
+
+![The light stack. One host is the desk. The other names stay quiet.](2026-09-23/grok-build/figures/fig1-stack.png)
+
+The paper is seven pages. It has four figures. It is one sitting, one operator, no second rater. The grade in it is the operator's: useful, not finished, not a week alone, not a Grok-class computer.
+
+### The same day
+
+| Note | Read | Folder |
 | --- | --- | --- |
-| The layer that wraps everything | https://developer.galion.app/p/ald-gaa | [`publish/ald-gaa`](publish/ald-gaa) |
-| The ALD plan is live | https://developer.galion.app/p/ald-gaa-live | [`publish/ald-gaa-live`](publish/ald-gaa-live) |
-| Testing the Grok Build computer | https://developer.galion.app/p/grok-build | [`publish/grok-build`](publish/grok-build) |
+| The layer that wraps everything | [door](https://developer.galion.app/p/ald-gaa) | [2026-09-23/ald-gaa](2026-09-23/ald-gaa) |
+| The ALD plan is live | [door](https://developer.galion.app/p/ald-gaa-live) | [2026-09-23/ald-gaa-live](2026-09-23/ald-gaa-live) |
+| Testing the Grok Build computer | [door](https://developer.galion.app/p/grok-build) | [2026-09-23/grok-build-note](2026-09-23/grok-build-note) |
+| Working paper GP-2026-01 | [PDF](2026-09-23/grok-build/galion-gp-2026-01.pdf) | [2026-09-23/grok-build](2026-09-23/grok-build) |
 
-The limit, in one sentence: this is a research plan, not a claim that La2O3 or Y2O3 replaces HfO2.
+The research plan on rare-earth oxides is a plan. It does not claim those oxides replace the usual dielectric.
 
-## Discussions
+## How the files are kept
 
-The board is the [discussions](https://github.com/galion-studio/community/discussions).
+Each day is a folder, `YYYY-MM-DD`. Inside it are the notes and the figures from that day.
 
-## License
+`publish/` is the same files at stable paths, so a link from yesterday still opens. New work is filed in the date folder first.
 
-These notes are MIT. Commercial use is allowed. Keep the notice.
+## Not in this repository
 
-See [LICENSE](LICENSE).
+The phone desk. The private repositories. Tokens, keys, and the machine they run on.
 
-## Door
-
-https://developer.galion.app
+The board is [Discussions](https://github.com/galion-studio/community/discussions). The door is [developer.galion.app](https://developer.galion.app).
